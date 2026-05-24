@@ -44,32 +44,6 @@ I collaborate as a Master's Thesis Supervisor in Artificial Intelligence, mainly
 - Experimental evaluation
 - Applied research methodology
 
-## Selected project
-
-### Visual Voice Navigation (VVN)
-
-**Visual Voice Navigation** is a real-time navigation assistance system for people with visual impairments. It processes images captured from a mobile device and provides voice-based navigation instructions.
-
-The project explores the use of computer vision and object recognition to build a low-cost assistive technology solution without relying on expensive sensors such as LiDAR, depth cameras or ultrasound systems.
-
-Main concepts:
-
-- Real-time image processing
-- Object recognition
-- Voice-assisted navigation
-- Mobile-based assistive technology
-- Accessibility-oriented AI
-
-## Current interests
-
-- Explainable AI for medical imaging
-- Endoscopy image classification and interpretability
-- Robust evaluation of biometric AI systems
-- Face Presentation Attack Detection
-- Vision-Language Models for applied AI
-- AI-assisted software development workflows
-- Human-supervised AI agents for prototyping and engineering
-
 ## Education
 
 - **Master's Degree in Artificial Intelligence**  
