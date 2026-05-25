@@ -41,8 +41,4 @@ print("Python is my main working language.")
 ## Contact
 
 - GitHub: [@eroberam](https://github.com/eroberam)
-- LinkedIn: [Roberto Alcaraz](https://www.linkedin.com/)
-
----
-
-> Exploring AI through research, engineering, and practical applications.
+- LinkedIn: [Roberto Alcaraz](https://www.linkedin.com/in/roberto-alcaraz-machado/)
