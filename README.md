@@ -38,37 +38,6 @@ print("Python is my main working language.")
 
 ---
 
-## Current focus
-
-- Building AI prototypes and research-oriented applications
-- Exploring medical imaging and explainability systems
-- Developing computer vision pipelines
-- Supervising Master's Theses in Artificial Intelligence
-- Testing new AI technologies through personal projects
-
----
-
-## Tech stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-AI-blue)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Research-black)
-![Medical Imaging](https://img.shields.io/badge/Medical%20Imaging-AI%20Applications-green)
-![Biometrics](https://img.shields.io/badge/Biometrics-Digital%20Identity-purple)
-
----
-
-## GitHub activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eroberam&show_icons=true&hide_title=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eroberam&layout=compact&hide_border=true)
-
----
-
 ## Contact
 
 - GitHub: [@eroberam](https://github.com/eroberam)
